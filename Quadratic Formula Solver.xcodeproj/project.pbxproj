@@ -14,6 +14,7 @@
 		003AB1EA1B1527E6000AF89F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 003AB1E91B1527E6000AF89F /* Images.xcassets */; };
 		003AB1ED1B1527E6000AF89F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 003AB1EB1B1527E6000AF89F /* LaunchScreen.xib */; };
 		003AB1F91B1527E6000AF89F /* Quadratic_Formula_SolverTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003AB1F81B1527E6000AF89F /* Quadratic_Formula_SolverTests.swift */; };
+		003AB2031B152884000AF89F /* hs-2007-16-a-xlarge_web.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 003AB2021B152884000AF89F /* hs-2007-16-a-xlarge_web.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		003AB1F21B1527E6000AF89F /* Quadratic Formula SolverTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quadratic Formula SolverTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		003AB1F71B1527E6000AF89F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		003AB1F81B1527E6000AF89F /* Quadratic_Formula_SolverTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadratic_Formula_SolverTests.swift; sourceTree = "<group>"; };
+		003AB2021B152884000AF89F /* hs-2007-16-a-xlarge_web.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hs-2007-16-a-xlarge_web.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				003AB1DF1B1527E6000AF89F /* AppDelegate.swift */,
 				003AB1E41B1527E6000AF89F /* ViewController.swift */,
 				003AB1E61B1527E6000AF89F /* Main.storyboard */,
+				003AB2021B152884000AF89F /* hs-2007-16-a-xlarge_web.jpg */,
 				003AB1E91B1527E6000AF89F /* Images.xcassets */,
 				003AB1EB1B1527E6000AF89F /* LaunchScreen.xib */,
 				003AB1E11B1527E6000AF89F /* Quadratic_Formula_Solver.xcdatamodeld */,
@@ -197,6 +200,7 @@
 			files = (
 				003AB1E81B1527E6000AF89F /* Main.storyboard in Resources */,
 				003AB1ED1B1527E6000AF89F /* LaunchScreen.xib in Resources */,
+				003AB2031B152884000AF89F /* hs-2007-16-a-xlarge_web.jpg in Resources */,
 				003AB1EA1B1527E6000AF89F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
