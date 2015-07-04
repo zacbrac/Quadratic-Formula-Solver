@@ -40,7 +40,6 @@
 		003AB1F71B1527E6000AF89F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		003AB1F81B1527E6000AF89F /* Quadratic_Formula_SolverTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadratic_Formula_SolverTests.swift; sourceTree = "<group>"; };
 		003AB2021B152884000AF89F /* hs-2007-16-a-xlarge_web.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hs-2007-16-a-xlarge_web.jpg"; sourceTree = "<group>"; };
-		00AC64A71B15315E003327F5 /* qfs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = qfs.png; sourceTree = "<group>"; };
 		00AC64A81B153166003327F5 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,7 +67,6 @@
 				003AB1DC1B1527E6000AF89F /* Quadratic Formula Solver */,
 				003AB1F51B1527E6000AF89F /* Quadratic Formula SolverTests */,
 				003AB1DB1B1527E6000AF89F /* Products */,
-				00AC64A71B15315E003327F5 /* qfs.png */,
 				00AC64A81B153166003327F5 /* readme.md */,
 			);
 			sourceTree = "<group>";
