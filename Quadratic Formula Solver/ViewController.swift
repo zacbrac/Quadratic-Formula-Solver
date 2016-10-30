@@ -18,15 +18,16 @@ class ViewController: UIViewController {
     @IBOutlet weak var answerB: UILabel!
     
     @IBAction func doQuadratic(sender: AnyObject) {
-        var a: Double = (paramA.text as NSString).doubleValue
-        var b: Double = (paramB.text as NSString).doubleValue
-        var c: Double = (paramC.text as NSString).doubleValue
         
-        var parta: Double = (-(b) + sqrt((b*b) - (4*a*c))) / (2*a)
-        var partb: Double = (-(b) - sqrt((b*b) - (4*a*c))) / (2*a)
+        let a: Double = (paramA.text! as NSString).doubleValue
+        let b: Double = (paramB.text! as NSString).doubleValue
+        let c: Double = (paramC.text! as NSString).doubleValue
         
-        var firstAnswerString:String = String(format:"%.2f", parta)
-        var secondAnswerString:String = String(format:"%.2f", partb)
+        let parta: Double = (-(b) + sqrt((b*b) - (4*a*c))) / (2*a)
+        let partb: Double = (-(b) - sqrt((b*b) - (4*a*c))) / (2*a)
+        
+        let firstAnswerString:String = String(format:"%.2f", parta)
+        let secondAnswerString:String = String(format:"%.2f", partb)
         
         answerA.text = firstAnswerString
         answerB.text = secondAnswerString
